@@ -2,10 +2,13 @@
 
 An AI-powered application that helps job seekers evaluate how well their resumes match specific job descriptions, identify missing skills, and get personalized improvement recommendations.
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/kalanjaliyellapu999-byte/AI-Resume-Matcher/main/app.py)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red?logo=streamlit&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-orange?logo=scikit-learn&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+> 🚀 **Live Demo:** Click to open the app directly: **[Launch AI Resume Matcher](https://share.streamlit.io/kalanjaliyellapu999-byte/AI-Resume-Matcher/main/app.py)**
 
 ---
 
