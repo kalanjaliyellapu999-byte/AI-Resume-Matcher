@@ -245,4 +245,4 @@ def generate_report(
         "Use this report as a guide to improve your resume and identify areas for growth.",
     )
 
-    return pdf.output()
+    return bytes(pdf.output())

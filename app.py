@@ -654,7 +654,7 @@ elif page == "🏠 Dashboard":
         with col_dl_c:
             st.download_button(
                 label="📥  Download Analysis Report (PDF)",
-                data=report_bytes,
+                data=bytes(report_bytes),
                 file_name="resume_analysis_report.pdf",
                 mime="application/pdf",
                 use_container_width=True,
